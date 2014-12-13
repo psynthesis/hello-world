@@ -5,4 +5,4 @@ First repository ;)
 
 These are the README file contents:
 
-<head></head>
+<head>The title will go here</head>
